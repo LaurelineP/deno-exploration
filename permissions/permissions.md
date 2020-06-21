@@ -33,7 +33,7 @@ the line above.
 Meaning you need to always specify the permission while running the command  
 which is combursome at the end
 - Installed permissions
-``` deno install <permission> <fileName> ```
+``` deno install <permission> <fileName> [-n <name-of-executable> ]```
 This **install** specification will write an execution file in order to ease  
 each execution to straight away run the program.
 By doing so, you ease the execution within a team as various environments might be used,  
@@ -44,3 +44,12 @@ Output being an execution file and now it is possible to just write the name of
 the builded file ( as if it were a regular CLI command ) and this action will run the  
 program within and run it everywhere ( even out of the current path project you're in  
 with the terminal )
+⚠️ Problem with 
+
+## Development mode Drake
+```deno run <permission> <fileName> <taskName>```
+As the app grows, we will need to allow multiple permissions and some configurations files as part of our developping process--> that is where we will need to run a task runner.
+This task runner will orchester some commands and configurations and it will be possible  
+using Drake ( a makefile-like ), kind-of the role that ```package.json``` has for node.
+It is common to use a drakefile with the permission allow-all ```deno run -A``` as  
+while specifying your tasks ( task by task ) you are actually in control of any permissions you are white listing ( no worries )
