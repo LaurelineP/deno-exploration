@@ -1,5 +1,19 @@
 /**
- * 	0. START THE CODE 
+ * ==========================================================================
+ * ==========================================================================
+ *		0. START CODING something
+ * 		1. RUNNING THE CODE in deno
+ * 		2. ENABLING PERMISSIONS & RUN CODE
+ * 		3. OTHERS PERMISSIONS OPTIONS
+ * 		4. 
+ * ==========================================================================
+ * ==========================================================================
+ */
+
+
+
+/**
+ * 	0. START CODING 
  *  write regular code + using environment username to personnalize the
  * 		message logged ( w/ Deno.env ) 
  * 		Arguments to use ( both within code and terminal ):
@@ -21,8 +35,9 @@
  * explaining the need of passing the option "--allow-env". 
  */
 
+
  /**
-  * ENABLING PERMISSION & RUN CODE
+  * 2. ENABLING PERMISSION & RUN CODE
   * To run within your terminal, permissions are before file argument
   * 	> deno run <permission> <yourFile>
   * 	> deno run allow-env ./permissions/main.ts
@@ -30,7 +45,7 @@
   */
 
   /**
-   * OTHERS PERMISSIONS OPTIONS
+   * 3. OTHERS PERMISSIONS OPTIONS
    * Indeed we can pass permission allong running the file this way of doing
    * could become quite painful, especially working with teams that end up also passing
    * those permissions to the file running it. 
