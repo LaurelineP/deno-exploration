@@ -1,0 +1,22 @@
+{
+  "headers": {
+    "x-amz-id-2": "8eYlB1MQy5v4m90jZLWZ4WPM3jwpmjXlDU8PnN5IGlCa+i95bJkykf51h5GRbcakxiEeD81wQK4=",
+    "cf-cache-status": "MISS",
+    "cf-ray": "5beae5efe864cdb7-CDG",
+    "vary": "Accept-Encoding",
+    "accept-ranges": "bytes",
+    "server": "cloudflare",
+    "access-control-allow-origin": "*",
+    "content-length": "1251",
+    "date": "Thu, 06 Aug 2020 18:42:31 GMT",
+    "cf-request-id": "0466ae09f30000cdb7e41c1200000001",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "x-amz-request-id": "08BD9049F884A9EE",
+    "set-cookie": "__cfduid=d9d9078cbd59ce62f3a3f09a7eb92ba4b1596739351; expires=Sat, 05-Sep-20 18:42:31 GMT; path=/; domain=.deno.land; HttpOnly; SameSite=Lax; Secure",
+    "content-type": "application/typescript; charset=utf-8",
+    "etag": "\"46a0f332b7221d7b54bff787e8f2c897\"",
+    "cache-control": "public, max-age=31536000, immutable",
+    "last-modified": "Wed, 29 Jul 2020 19:29:51 GMT"
+  },
+  "url": "https://deno.land/x/drake@v1.2.3/lib/help.ts"
+}

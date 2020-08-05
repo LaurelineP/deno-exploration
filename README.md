@@ -15,10 +15,14 @@ Deno is a **JavaScript** and **TypeScript runtime** using **V8** and build in **
 
 
 
-## Commands
-* ```deno run <file.ext>``` : To execute / run a file with Deno
-* ```deno run <file.ext> <arguments-string>``` : To execute / run a file with Deno w/ arguments
-* ```deno install <permission> <file.ext> <optional-renamed-project>``` : To build an executable out of your file.
+## Quick Commands Reviews
+| Commands | Meanings	|
+|-|-|
+| ```deno upgrade``` | Upgrade Deno version |
+| ```deno run <file.ext>``` | To execute / run a file with Deno |
+| ```deno run <file.ext> <string-arguments>``` | To execute / run a file with Deno w/ arguments |
+| ```deno install <optional-renamed-project> <permissions> <file.ext>``` | To build an executable out of your file. |
+| ```deno cache --lock=lock.json --lock <file-with-deps.ext>``` | Caches and lock the dependencies version into a lock.json file |
 
 
 ## Security & Permissions
