@@ -1,0 +1,22 @@
+{
+  "headers": {
+    "cf-ray": "5beae5f5adcecdb7-CDG",
+    "server": "cloudflare",
+    "content-type": "application/typescript; charset=utf-8",
+    "last-modified": "Wed, 29 Jul 2020 21:10:30 GMT",
+    "content-length": "4489",
+    "vary": "Accept-Encoding",
+    "date": "Thu, 06 Aug 2020 18:42:32 GMT",
+    "etag": "\"edca1991a0bf9a6695f33687bcb23c77\"",
+    "access-control-allow-origin": "*",
+    "cf-cache-status": "MISS",
+    "cf-request-id": "0466ae0d890000cdb7e4252200000001",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "set-cookie": "__cfduid=d9d9078cbd59ce62f3a3f09a7eb92ba4b1596739351; expires=Sat, 05-Sep-20 18:42:31 GMT; path=/; domain=.deno.land; HttpOnly; SameSite=Lax; Secure",
+    "x-amz-request-id": "3A61AEF372D52B10",
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-amz-id-2": "h0aVmt4ew6gQYEiyYwVE48re3HJ1IPx+FDjBW/twSlWbKtPWhdL1SJHp5b6RXP6eXPVLTR8p+i0=",
+    "accept-ranges": "bytes"
+  },
+  "url": "https://deno.land/std@0.57.0/fs/walk.ts"
+}

@@ -1,0 +1,22 @@
+{
+  "headers": {
+    "x-amz-id-2": "5fWHtn3TbwwVhbsItTsjlCFRsLt2+tc/++YpX7inxllk46nZVQx260uUlcv186+yNYULtdMocTU=",
+    "set-cookie": "__cfduid=d9d9078cbd59ce62f3a3f09a7eb92ba4b1596739351; expires=Sat, 05-Sep-20 18:42:31 GMT; path=/; domain=.deno.land; HttpOnly; SameSite=Lax; Secure",
+    "x-amz-request-id": "2E7C389C4DF261B0",
+    "last-modified": "Wed, 29 Jul 2020 19:29:51 GMT",
+    "etag": "\"9a6c07529480aeb21111fb9eca578a1f\"",
+    "content-length": "1490",
+    "cf-ray": "5beae5f5eea7cdb7-CDG",
+    "vary": "Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "cache-control": "public, max-age=31536000, immutable",
+    "cf-request-id": "0466ae0db10000cdb7e4255200000001",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "date": "Thu, 06 Aug 2020 18:42:32 GMT",
+    "server": "cloudflare",
+    "cf-cache-status": "MISS",
+    "accept-ranges": "bytes",
+    "content-type": "application/typescript; charset=utf-8"
+  },
+  "url": "https://deno.land/x/drake@v1.2.3/lib/graph.ts"
+}
