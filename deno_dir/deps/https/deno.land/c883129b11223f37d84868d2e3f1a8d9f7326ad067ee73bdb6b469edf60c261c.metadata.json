@@ -1,0 +1,14 @@
+{
+  "headers": {
+    "location": "/std@0.57.0/fmt/colors.ts",
+    "cf-ray": "5beae5f58d6ecdb7-CDG",
+    "cf-request-id": "0466ae0d710000cdb7e4249200000001",
+    "server": "cloudflare",
+    "set-cookie": "__cfduid=d9d9078cbd59ce62f3a3f09a7eb92ba4b1596739351; expires=Sat, 05-Sep-20 18:42:31 GMT; path=/; domain=.deno.land; HttpOnly; SameSite=Lax; Secure",
+    "vary": "Accept-Encoding",
+    "date": "Thu, 06 Aug 2020 18:42:31 GMT",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "content-length": "0"
+  },
+  "url": "https://deno.land/std@v0.57.0/fmt/colors.ts"
+}

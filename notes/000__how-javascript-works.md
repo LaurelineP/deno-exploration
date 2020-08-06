@@ -5,7 +5,7 @@ the first javascript engine ( which firefox still uses )
 A JavaScript Engine helps to "translate" JS code into binary
 so that the computer understands the code to execute.
 And everyone can write their own engine 
-( which is al fine only just a programm script ) but should follow
+( which is only just a programm script ) but should follow
 ECMASCRIPT standards.
 
 ## ECMASCRIPT
